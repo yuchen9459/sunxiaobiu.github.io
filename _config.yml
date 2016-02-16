@@ -16,8 +16,8 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-assets: /assets
-baseurl:
+assets: http://sunxiaobiu.github.io/assets
+baseurl: http://sunxiaobiu.github.io
 
 # pagination
 paginate: 10
